@@ -1,5 +1,8 @@
 {
     "name":"newmee",
     "compatibility_date": "2025-08-24",
-    "compatibility_flags": ["nodejs_compat"]
+    "compatibility_flags": ["nodejs_compat"],
+    "assets": {
+      "directory": "./dist"
+    }
   }
